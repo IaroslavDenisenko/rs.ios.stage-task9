@@ -9,10 +9,14 @@
 
 import UIKit
 
-@main
-class AppDelegate: UIResponder, UIApplicationDelegate {
+@UIApplicationMain
 
+class AppDelegate: UIResponder, UIApplicationDelegate {
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        UITabBar.appearance().tintColor = UIColor.red
+        UINavigationBar.appearance().tintColor = UIColor.red
+        UITableViewCell.appearance().tintColor = UIColor.red
         return true
     }
 

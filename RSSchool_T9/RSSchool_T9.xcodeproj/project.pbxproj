@@ -25,6 +25,20 @@
 		2BB9F30E26AF5FA900F43852 /* story-4-path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BB9F30D26AF5FA900F43852 /* story-4-path.swift */; };
 		2BB9F31026AF5FB300F43852 /* s4-text.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2BB9F30F26AF5FB300F43852 /* s4-text.txt */; };
 		2BB9F31226AF5FBE00F43852 /* s4-title.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2BB9F31126AF5FBE00F43852 /* s4-title.txt */; };
+		D54B5F6426B6777400C63CF7 /* InsetLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54B5F6326B6777400C63CF7 /* InsetLabel.swift */; };
+		D54B5F6826B6966900C63CF7 /* ScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54B5F6726B6966900C63CF7 /* ScrollViewController.swift */; };
+		D54B5F6D26B6A65E00C63CF7 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54B5F6C26B6A65E00C63CF7 /* ImageViewController.swift */; };
+		D54D31B326B7CD5F00389A66 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D54D31B226B7CD5F00389A66 /* SettingsViewController.m */; };
+		D54D31BA26B8037500389A66 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = D54D31B826B8037500389A66 /* UIColor+Hex.m */; };
+		D54D31BD26B80DF300389A66 /* ColorsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D54D31BC26B80DF300389A66 /* ColorsTableViewController.m */; };
+		D54D31C226B844AE00389A66 /* Settings.m in Sources */ = {isa = PBXBuildFile; fileRef = D54D31C126B844AE00389A66 /* Settings.m */; };
+		D57629AE26BB0CB9002050FB /* CoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57629AD26BB0CB9002050FB /* CoverViewController.swift */; };
+		D58F701126B2851400EFAE5D /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58F701026B2851400EFAE5D /* UIViewExtension.swift */; };
+		D5A15D7F26B3DE6100C0452E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A15D7E26B3DE6100C0452E /* DetailViewController.swift */; };
+		D5A15D8126B4079800C0452E /* CircleCloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A15D8026B4079800C0452E /* CircleCloseButton.swift */; };
+		D5C5216A26B59A560010FD72 /* PaintViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5C5216926B59A550010FD72 /* PaintViewController.swift */; };
+		D5D30E1326B1CE9B0019A307 /* ItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D30E1226B1CE9B0019A307 /* ItemsViewController.swift */; };
+		D5D30E1726B1E5310019A307 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D30E1626B1E5310019A307 /* ItemCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +62,25 @@
 		2BB9F30D26AF5FA900F43852 /* story-4-path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "story-4-path.swift"; sourceTree = "<group>"; };
 		2BB9F30F26AF5FB300F43852 /* s4-text.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "s4-text.txt"; sourceTree = "<group>"; };
 		2BB9F31126AF5FBE00F43852 /* s4-title.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "s4-title.txt"; sourceTree = "<group>"; };
+		D54B5F6326B6777400C63CF7 /* InsetLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetLabel.swift; sourceTree = "<group>"; };
+		D54B5F6726B6966900C63CF7 /* ScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewController.swift; sourceTree = "<group>"; };
+		D54B5F6C26B6A65E00C63CF7 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		D54D31B026B7CD5F00389A66 /* RSSchool_T9-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RSSchool_T9-Bridging-Header.h"; sourceTree = "<group>"; };
+		D54D31B126B7CD5F00389A66 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		D54D31B226B7CD5F00389A66 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		D54D31B826B8037500389A66 /* UIColor+Hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
+		D54D31B926B8037500389A66 /* UIColor+Hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
+		D54D31BB26B80DF300389A66 /* ColorsTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorsTableViewController.h; sourceTree = "<group>"; };
+		D54D31BC26B80DF300389A66 /* ColorsTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorsTableViewController.m; sourceTree = "<group>"; };
+		D54D31C026B844AE00389A66 /* Settings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
+		D54D31C126B844AE00389A66 /* Settings.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Settings.m; sourceTree = "<group>"; };
+		D57629AD26BB0CB9002050FB /* CoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverViewController.swift; sourceTree = "<group>"; };
+		D58F701026B2851400EFAE5D /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		D5A15D7E26B3DE6100C0452E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D5A15D8026B4079800C0452E /* CircleCloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleCloseButton.swift; sourceTree = "<group>"; };
+		D5C5216926B59A550010FD72 /* PaintViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintViewController.swift; sourceTree = "<group>"; };
+		D5D30E1226B1CE9B0019A307 /* ItemsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsViewController.swift; sourceTree = "<group>"; };
+		D5D30E1626B1E5310019A307 /* ItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,13 +113,12 @@
 		2BB9E75A26AB605700112651 /* RSSchool_T9 */ = {
 			isa = PBXGroup;
 			children = (
-				2BB9F28F26ADFAEB00F43852 /* Data */,
-				2BB9E75B26AB605700112651 /* AppDelegate.swift */,
-				2BB9E75D26AB605700112651 /* SceneDelegate.swift */,
-				2BB9E76126AB605700112651 /* Main.storyboard */,
-				2BB9E76426AB605900112651 /* Assets.xcassets */,
-				2BB9E76626AB605900112651 /* LaunchScreen.storyboard */,
 				2BB9E76926AB605900112651 /* Info.plist */,
+				D54D31B726B8037500389A66 /* ColorHexCategory */,
+				2BB9F28F26ADFAEB00F43852 /* Data */,
+				D54B5F6B26B6A5EF00C63CF7 /* Application */,
+				D54B5F6926B69AAD00C63CF7 /* Screens */,
+				D54B5F6A26B6A5B400C63CF7 /* Views */,
 			);
 			path = RSSchool_T9;
 			sourceTree = "<group>";
@@ -96,6 +128,8 @@
 			children = (
 				2BB9F29226AE017D00F43852 /* Static */,
 				2BB9F29026ADFAF100F43852 /* Data.swift */,
+				D54D31C026B844AE00389A66 /* Settings.h */,
+				D54D31C126B844AE00389A66 /* Settings.m */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -151,6 +185,56 @@
 			path = "story-4";
 			sourceTree = "<group>";
 		};
+		D54B5F6926B69AAD00C63CF7 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				D5D30E1226B1CE9B0019A307 /* ItemsViewController.swift */,
+				D5A15D7E26B3DE6100C0452E /* DetailViewController.swift */,
+				D5C5216926B59A550010FD72 /* PaintViewController.swift */,
+				D54B5F6726B6966900C63CF7 /* ScrollViewController.swift */,
+				D57629AD26BB0CB9002050FB /* CoverViewController.swift */,
+				D54B5F6C26B6A65E00C63CF7 /* ImageViewController.swift */,
+				D54D31B126B7CD5F00389A66 /* SettingsViewController.h */,
+				D54D31B226B7CD5F00389A66 /* SettingsViewController.m */,
+				D54D31BB26B80DF300389A66 /* ColorsTableViewController.h */,
+				D54D31BC26B80DF300389A66 /* ColorsTableViewController.m */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		D54B5F6A26B6A5B400C63CF7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D5D30E1626B1E5310019A307 /* ItemCell.swift */,
+				D5A15D8026B4079800C0452E /* CircleCloseButton.swift */,
+				D54B5F6326B6777400C63CF7 /* InsetLabel.swift */,
+				D58F701026B2851400EFAE5D /* UIViewExtension.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D54B5F6B26B6A5EF00C63CF7 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				2BB9E75B26AB605700112651 /* AppDelegate.swift */,
+				2BB9E75D26AB605700112651 /* SceneDelegate.swift */,
+				2BB9E76126AB605700112651 /* Main.storyboard */,
+				2BB9E76426AB605900112651 /* Assets.xcassets */,
+				2BB9E76626AB605900112651 /* LaunchScreen.storyboard */,
+				D54D31B026B7CD5F00389A66 /* RSSchool_T9-Bridging-Header.h */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		D54D31B726B8037500389A66 /* ColorHexCategory */ = {
+			isa = PBXGroup;
+			children = (
+				D54D31B826B8037500389A66 /* UIColor+Hex.m */,
+				D54D31B926B8037500389A66 /* UIColor+Hex.h */,
+			);
+			path = ColorHexCategory;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -184,7 +268,7 @@
 				TargetAttributes = {
 					2BB9E75726AB605700112651 = {
 						CreatedOnToolsVersion = 12.5.1;
-						LastSwiftMigration = 1250;
+						LastSwiftMigration = 1170;
 					};
 				};
 			};
@@ -233,12 +317,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BB9F30126AF557E00F43852 /* story-2-path.swift in Sources */,
+				D54D31BA26B8037500389A66 /* UIColor+Hex.m in Sources */,
 				2BB9E75C26AB605700112651 /* AppDelegate.swift in Sources */,
+				D58F701126B2851400EFAE5D /* UIViewExtension.swift in Sources */,
+				D54D31B326B7CD5F00389A66 /* SettingsViewController.m in Sources */,
+				D5A15D7F26B3DE6100C0452E /* DetailViewController.swift in Sources */,
+				D5C5216A26B59A560010FD72 /* PaintViewController.swift in Sources */,
 				2BB9F30B26AF5EEC00F43852 /* story-3-path.swift in Sources */,
+				D57629AE26BB0CB9002050FB /* CoverViewController.swift in Sources */,
+				D54D31BD26B80DF300389A66 /* ColorsTableViewController.m in Sources */,
+				D5A15D8126B4079800C0452E /* CircleCloseButton.swift in Sources */,
+				D5D30E1326B1CE9B0019A307 /* ItemsViewController.swift in Sources */,
+				D5D30E1726B1E5310019A307 /* ItemCell.swift in Sources */,
+				D54B5F6826B6966900C63CF7 /* ScrollViewController.swift in Sources */,
+				D54D31C226B844AE00389A66 /* Settings.m in Sources */,
+				D54B5F6D26B6A65E00C63CF7 /* ImageViewController.swift in Sources */,
 				2BB9F29126ADFAF100F43852 /* Data.swift in Sources */,
 				2BB9F2EC26AF1F6200F43852 /* story-1-path.swift in Sources */,
 				2BB9F30E26AF5FA900F43852 /* story-4-path.swift in Sources */,
 				2BB9E75E26AB605700112651 /* SceneDelegate.swift in Sources */,
+				D54B5F6426B6777400C63CF7 /* InsetLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,7 +413,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -370,7 +468,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -395,6 +493,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.username.RSSchool-T9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/Application/RSSchool_T9-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -416,6 +515,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.username.RSSchool-T9";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "RSSchool_T9/Application/RSSchool_T9-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
